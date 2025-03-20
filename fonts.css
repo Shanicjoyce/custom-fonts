@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'ChrysanthiUnicodeRegular';
+    src: url('https://github.com/Shanicjoyce/custom-fonts/raw/refs/heads/main/ChrysanthiUnicodeRegular-KEzo.woff2') format("woff2"),
+         url('https://github.com/Shanicjoyce/custom-fonts/raw/refs/heads/main/ChrysanthiUnicodeRegular-KEzo.woff') format("woff");
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeueHaasUnicaPro';
+    src: url('https://github.com/Shanicjoyce/custom-fonts/raw/refs/heads/main/NeueHaasUnicaPro-Regular.woff2') format("woff2"),
+         url('https://github.com/Shanicjoyce/custom-fonts/raw/refs/heads/main/NeueHaasUnicaPro-Regular.woff') format("woff");
+    font-style: normal;
+    font-display: swap;
+}
